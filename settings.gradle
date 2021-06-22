@@ -1,0 +1,2 @@
+rootProject.name = "QuizAppRecycler"
+include ':app'
